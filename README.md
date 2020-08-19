@@ -4,17 +4,20 @@ Este repositorio a sido creado con la intension de ayudar a todos los estudiante
 Usa esta informacion con responsabilidad y recuerda que el plagio tiene consecuencias en tus materias, fuera de eso usa esto para lo que desees, es licencia libre 😁🥰.
 ## Reglas. 📋
 _Todos los archivos deben ser funcionales, no se permiten programas sin terminar, con errores, o con calificacion insuficiente._
+
 _Recuerda agregar los archivos en la materia correspondiente, en caso de no estar la materia crea una carpeta con el nombre de la misma._
+
 _Estan permitidos todos los tipos de trabajos que se hagan hecho a lo largo de los cursos, esto incluye, PDFs, Presentaciones, Codigos, Tareas, Mapas de todo tipo, enlace a videos, ETC._
+
 ## Instrucciones para que tus archivos sean aceptados.🛠️
-_Recuerda hacer fork a este repositorio.
-_Cuando tengas el repositorio clonado con la instruccion anterior, sube tus archivos en la carpeta correspondiente.
-_Cuando termines de subir todos tus archivos recuerda hacer clic en Pull request para combinar tus cambios en la rama Review, (Tus cambios no seran Aceptados en cualquier otra rama), una vez tus cambios sean validados seran puestos en la rama principal (Master).
-_Si lo deseas pondremos tu nombre en la lista de contribuidores (Contribuidores de ICO), solo recuerda hacernoslo saber con un comentario en tu Pull Request.
+_Recuerda hacer fork a este repositorio._
+_Cuando tengas el repositorio clonado con la instruccion anterior, sube tus archivos en la carpeta correspondiente._
+_Cuando termines de subir todos tus archivos recuerda hacer clic en Pull request para combinar tus cambios en la rama Review, (Tus cambios no seran Aceptados en cualquier otra rama), una vez tus cambios sean validados seran puestos en la rama principal (Master)._
+_Si lo deseas pondremos tu nombre en la lista de contribuidores (Contribuidores de ICO), solo recuerda hacernoslo saber con un comentario en tu Pull Request._
 ## Instrucciones para encontrar contenido. 👀
-_todo esta organizado por materias 
-_Te recomendamos ampliamente que rescargues el repositorio completo.
-_Recuerda hacer clic en Star, es un GRACIAS para nosotros.
+_Todo esta organizado por materias_
+_Te recomendamos ampliamente que rescargues el repositorio completo._
+_Recuerda hacer clic en Star, es un GRACIAS para nosotros._
 ## Contribuidores de ICO
 _lista de todos los contribuidores hasta el momento.
 * **Axel Valenzuela Juarez** - *Contribuidor Beta* - [AntiDesert5](https://github.com/AntiDesert5)
