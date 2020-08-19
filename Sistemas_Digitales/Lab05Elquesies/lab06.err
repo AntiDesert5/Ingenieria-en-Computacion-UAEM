@@ -1,0 +1,17 @@
+Warning[205] D:\IVAN\DOCUMENTOS\SISTEMAS DIGITALES\LAB06ELQUESIES\LAB06.ASM 19 : Found directive in column 1. (CBLOCK)
+Warning[205] D:\IVAN\DOCUMENTOS\SISTEMAS DIGITALES\LAB06ELQUESIES\LAB06.ASM 32 : Found directive in column 1. (ORG)
+Message[302] D:\IVAN\DOCUMENTOS\SISTEMAS DIGITALES\LAB06ELQUESIES\LAB06.ASM 41 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\IVAN\DOCUMENTOS\SISTEMAS DIGITALES\LAB06ELQUESIES\LAB06.ASM 42 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\IVAN\DOCUMENTOS\SISTEMAS DIGITALES\LAB06ELQUESIES\LAB06.ASM 43 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\IVAN\DOCUMENTOS\SISTEMAS DIGITALES\LAB06ELQUESIES\LAB06.ASM 44 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\IVAN\DOCUMENTOS\SISTEMAS DIGITALES\LAB06ELQUESIES\LAB06.ASM 46 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\IVAN\DOCUMENTOS\SISTEMAS DIGITALES\LAB06ELQUESIES\LAB06.ASM 47 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\IVAN\DOCUMENTOS\SISTEMAS DIGITALES\LAB06ELQUESIES\LAB06.ASM 50 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Error[113]   D:\IVAN\DOCUMENTOS\SISTEMAS DIGITALES\LAB06ELQUESIES\LAB06.ASM 60 : Symbol not previously defined (main)
+Error[113]   D:\IVAN\DOCUMENTOS\SISTEMAS DIGITALES\LAB06ELQUESIES\LAB06.ASM 64 : Symbol not previously defined (main)
+Error[113]   D:\IVAN\DOCUMENTOS\SISTEMAS DIGITALES\LAB06ELQUESIES\LAB06.ASM 76 : Symbol not previously defined (main)
+Error[113]   D:\IVAN\DOCUMENTOS\SISTEMAS DIGITALES\LAB06ELQUESIES\LAB06.ASM 81 : Symbol not previously defined (main)
+Error[113]   D:\IVAN\DOCUMENTOS\SISTEMAS DIGITALES\LAB06ELQUESIES\LAB06.ASM 92 : Symbol not previously defined (main)
+Error[116]   D:\IVAN\DOCUMENTOS\SISTEMAS DIGITALES\LAB06ELQUESIES\LAB06.ASM 94 : Address label duplicated or different in second pass (m2_derecha)
+Error[113]   D:\IVAN\DOCUMENTOS\SISTEMAS DIGITALES\LAB06ELQUESIES\LAB06.ASM 96 : Symbol not previously defined (main)
+Message[305] D:\IVAN\DOCUMENTOS\SISTEMAS DIGITALES\LAB06ELQUESIES\LAB06.ASM 182 : Using default destination of 1 (file).

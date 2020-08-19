@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052"
+   height="789"
+   viewBox="0 0 1052 789"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="Robot1.svg">
+  <metadata
+     id="metadata46">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1125"
+     id="namedview44"
+     showgrid="false"
+     inkscape:zoom="0.5982256"
+     inkscape:cx="52.569144"
+     inkscape:cy="236.39601"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <desc
+     id="desc4">Produced by GNUPLOT 4.2 patchlevel 6  </desc>
+  <defs
+     id="defs6">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 394.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1052 : 394.5 : 1"
+       inkscape:persp3d-origin="526 : 263 : 1"
+       id="perspective48" />
+    <circle
+       id="gpDot"
+       r="0.5"
+       stroke-width="0.5" />
+    <path
+       id="gpPt0"
+       stroke-width="0.222"
+       stroke="currentColor"
+       d="M-1,0 h2 M0,-1 v2" />
+    <path
+       id="gpPt1"
+       stroke-width="0.222"
+       stroke="currentColor"
+       d="M-1,-1 L1,1 M1,-1 L-1,1" />
+    <path
+       id="gpPt2"
+       stroke-width="0.222"
+       stroke="currentColor"
+       d="M-1,0 L1,0 M0,-1 L0,1 M-1,-1 L1,1 M-1,1 L1,-1" />
+    <rect
+       id="gpPt3"
+       stroke-width="0.222"
+       stroke="currentColor"
+       x="-1"
+       y="-1"
+       width="2"
+       height="2" />
+    <rect
+       id="gpPt4"
+       stroke-width="0.222"
+       stroke="currentColor"
+       fill="currentColor"
+       x="-1"
+       y="-1"
+       width="2"
+       height="2" />
+    <circle
+       id="gpPt5"
+       stroke-width="0.222"
+       stroke="currentColor"
+       cx="0"
+       cy="0"
+       r="1" />
+    <use
+       xlink:href="#gpPt5"
+       id="gpPt6"
+       fill="currentColor"
+       stroke="none" />
+    <path
+       id="gpPt7"
+       stroke-width="0.222"
+       stroke="currentColor"
+       d="M0,-1.33 L-1.33,0.67 L1.33,0.67 z" />
+    <use
+       xlink:href="#gpPt7"
+       id="gpPt8"
+       fill="currentColor"
+       stroke="none" />
+    <use
+       xlink:href="#gpPt7"
+       id="gpPt9"
+       stroke="currentColor"
+       transform="rotate(180)" />
+    <use
+       xlink:href="#gpPt9"
+       id="gpPt10"
+       fill="currentColor"
+       stroke="none" />
+    <use
+       xlink:href="#gpPt3"
+       id="gpPt11"
+       stroke="currentColor"
+       transform="rotate(45)" />
+    <use
+       xlink:href="#gpPt11"
+       id="gpPt12"
+       fill="currentColor"
+       stroke="none" />
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-3-6-2"
+       style="overflow:visible">
+      <path
+         id="path3837-8-8-2"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective5374" />
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-3-6"
+       style="overflow:visible">
+      <path
+         id="path3837-8-8"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective5150" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective4913" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective4875" />
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-3"
+       style="overflow:visible">
+      <path
+         id="path3837-8"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective4839" />
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Mend"
+       style="overflow:visible;">
+      <path
+         id="path3837"
+         style="font-size:12.0;fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) rotate(180) translate(0,0)" />
+    </marker>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 394.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1052 : 394.5 : 1"
+       inkscape:persp3d-origin="526 : 263 : 1"
+       id="perspective218" />
+    <circle
+       id="gpDot-6"
+       r="0.5"
+       stroke-width="0.5" />
+    <path
+       id="gpPt0-2"
+       stroke-width="0.222"
+       stroke="currentColor"
+       d="M-1,0 h2 M0,-1 v2" />
+    <path
+       id="gpPt1-6"
+       stroke-width="0.222"
+       stroke="currentColor"
+       d="M-1,-1 L1,1 M1,-1 L-1,1" />
+    <path
+       id="gpPt2-7"
+       stroke-width="0.222"
+       stroke="currentColor"
+       d="M-1,0 L1,0 M0,-1 L0,1 M-1,-1 L1,1 M-1,1 L1,-1" />
+    <rect
+       id="gpPt3-5"
+       stroke-width="0.222"
+       stroke="currentColor"
+       x="-1"
+       y="-1"
+       width="2"
+       height="2" />
+    <rect
+       id="gpPt4-6"
+       stroke-width="0.222"
+       stroke="currentColor"
+       fill="currentColor"
+       x="-1"
+       y="-1"
+       width="2"
+       height="2" />
+    <circle
+       id="gpPt5-9"
+       stroke-width="0.222"
+       stroke="currentColor"
+       cx="0"
+       cy="0"
+       r="1" />
+    <use
+       xlink:href="#gpPt5-9"
+       id="gpPt6-8"
+       fill="currentColor"
+       stroke="none" />
+    <path
+       id="gpPt7-7"
+       stroke-width="0.222"
+       stroke="currentColor"
+       d="M0,-1.33 L-1.33,0.67 L1.33,0.67 z" />
+    <use
+       xlink:href="#gpPt7-7"
+       id="gpPt8-2"
+       fill="currentColor"
+       stroke="none" />
+    <use
+       xlink:href="#gpPt7-7"
+       id="gpPt9-8"
+       stroke="currentColor"
+       transform="rotate(180)" />
+    <use
+       xlink:href="#gpPt9-8"
+       id="gpPt10-2"
+       fill="currentColor"
+       stroke="none" />
+    <use
+       xlink:href="#gpPt3-5"
+       id="gpPt11-9"
+       stroke="currentColor"
+       transform="rotate(45)" />
+    <use
+       xlink:href="#gpPt11-9"
+       id="gpPt12-9"
+       fill="currentColor"
+       stroke="none" />
+    <inkscape:perspective
+       id="perspective5067"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-9"
+       style="overflow:visible">
+      <path
+         id="path3837-6"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <inkscape:perspective
+       id="perspective5743"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-9-9"
+       style="overflow:visible">
+      <path
+         id="path3837-6-7"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <inkscape:perspective
+       id="perspective5989"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-9-9-6"
+       style="overflow:visible">
+      <path
+         id="path3837-6-7-6"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <use
+       stroke="none"
+       fill="currentColor"
+       id="gpPt12-2"
+       xlink:href="#gpPt11-7" />
+    <use
+       transform="rotate(45)"
+       stroke="currentColor"
+       id="gpPt11-7"
+       xlink:href="#gpPt3-4" />
+    <use
+       stroke="none"
+       fill="currentColor"
+       id="gpPt10-8"
+       xlink:href="#gpPt9-9" />
+    <use
+       transform="rotate(180)"
+       stroke="currentColor"
+       id="gpPt9-9"
+       xlink:href="#gpPt7-5" />
+    <use
+       stroke="none"
+       fill="currentColor"
+       id="gpPt8-6"
+       xlink:href="#gpPt7-5" />
+    <path
+       d="M0,-1.33 L-1.33,0.67 L1.33,0.67 z"
+       stroke="currentColor"
+       stroke-width="0.222"
+       id="gpPt7-5" />
+    <use
+       stroke="none"
+       fill="currentColor"
+       id="gpPt6-7"
+       xlink:href="#gpPt5-6" />
+    <circle
+       r="1"
+       cy="0"
+       cx="0"
+       stroke="currentColor"
+       stroke-width="0.222"
+       id="gpPt5-6" />
+    <rect
+       height="2"
+       width="2"
+       y="-1"
+       x="-1"
+       fill="currentColor"
+       stroke="currentColor"
+       stroke-width="0.222"
+       id="gpPt4-62" />
+    <rect
+       height="2"
+       width="2"
+       y="-1"
+       x="-1"
+       stroke="currentColor"
+       stroke-width="0.222"
+       id="gpPt3-4" />
+    <path
+       d="M-1,0 L1,0 M0,-1 L0,1 M-1,-1 L1,1 M-1,1 L1,-1"
+       stroke="currentColor"
+       stroke-width="0.222"
+       id="gpPt2-0" />
+    <path
+       d="M-1,-1 L1,1 M1,-1 L-1,1"
+       stroke="currentColor"
+       stroke-width="0.222"
+       id="gpPt1-0" />
+    <path
+       d="M-1,0 h2 M0,-1 v2"
+       stroke="currentColor"
+       stroke-width="0.222"
+       id="gpPt0-4" />
+    <circle
+       stroke-width="0.5"
+       r="0.5"
+       id="gpDot-66" />
+    <inkscape:perspective
+       id="perspective50"
+       inkscape:persp3d-origin="526 : 263 : 1"
+       inkscape:vp_z="1052 : 394.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 394.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Mend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path5408" />
+    </marker>
+  </defs>
+  <rect
+     style="fill:#ffffff;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+     id="rect6045"
+     width="879.48053"
+     height="631.72791"
+     x="77.861389"
+     y="89.409798"
+     inkscape:export-filename="/home/juan/desarrollo/ArmRobotKinematics/trunk/fig/g6033.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <g
+     style="fill:none; color:white; stroke:currentColor; stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter"
+     id="g22" />
+  <g
+     style="fill:none; color:black; stroke:currentColor; stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter"
+     id="g24" />
+  <g
+     style="fill:none; color:black; stroke:currentColor; stroke-width:4.00; stroke-linecap:butt; stroke-linejoin:miter"
+     id="g26" />
+  <path
+     style="color:#ff0000;fill:none;stroke:#0000ff;stroke-width:8;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+     id="path30"
+     d="m 232.92966,647.03686 303.1,-303.1" />
+  <g
+     style="color:#008000;fill:none;stroke:currentColor;stroke-width:8;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+     id="g36"
+     transform="translate(10.029661,-55.163136)">
+    <path
+       d="m 563.8,285.5 -37.8,37.9 0,75.7 75.7,0 37.9,-37.8"
+       id="path38"
+       style="stroke:#00ff00;stroke-width:8;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none" />
+  </g>
+  <g
+     style="fill:none; color:green; stroke:rgb(  0, 255,   0); stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter"
+     id="g40" />
+  <g
+     style="fill:none; color:black; stroke:currentColor; stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter"
+     id="g42" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend-3)"
+     d="M 538.36713,342.53593 613.409,266.48575"
+     id="path4948" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend-3)"
+     d="M 537.64003,336.52802 474.95465,274.67844"
+     id="path4948-7" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)"
+     d="m 233.38242,647.38337 0,-485.02451"
+     id="path4639" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)"
+     d="m 232.53272,646.58976 515.98747,0"
+     id="path4639-7" />
+  <g
+     style="color:#ffffff;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     id="g22-8"
+     transform="translate(-968.71275,85.371909)" />
+  <g
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     id="g24-2"
+     transform="translate(-968.71275,85.371909)" />
+  <g
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter"
+     id="g26-9"
+     transform="translate(-968.71275,85.371909)" />
+  <g
+     style="color:#008000;fill:none;stroke:#00ff00;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     id="g42-2"
+     transform="translate(-968.71275,85.371909)" />
+  <g
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     id="g44"
+     transform="translate(-968.71275,85.371909)" />
+  <use
+     height="789"
+     width="1052"
+     y="0"
+     x="0"
+     style="color:#0000ff;fill:#0000ff;stroke:currentColor;stroke-width:1.37935901;stroke-linecap:round;stroke-linejoin:miter"
+     id="use34-6"
+     transform="matrix(13.028235,0,0,13.070877,537.20295,341.47139)"
+     xlink:href="#gpPt5-9"
+     inkscape:export-filename="/home/juan/desarrollo/ArmRobotKinematics/trunk/fig/g6033.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <g
+     style="color:#ffffff;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+     id="g22-2"
+     transform="translate(-1960.8576,180.9347)" />
+  <g
+     style="color:#ffffff;fill:none;stroke:currentColor;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter"
+     id="g24-7"
+     transform="translate(-1960.8576,180.9347)" />
+  <g
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter"
+     id="g26-6"
+     transform="translate(-1960.8576,180.9347)" />
+  <g
+     style="color:#000000;fill:none;stroke:currentColor;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter"
+     id="g28-1"
+     transform="translate(-1960.8576,180.9347)" />
+  <g
+     style="color:#ff0000;fill:none;stroke:#0000ff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter"
+     id="g38-3"
+     transform="translate(-1960.8576,180.9347)" />
+  <g
+     style="color:#00ffff;fill:none;stroke:#ff0000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter"
+     id="g48"
+     transform="translate(-1960.8576,180.9347)" />
+  <g
+     style="color:#ff0000;fill:none;stroke:#0000ff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter"
+     id="g56"
+     transform="translate(-1960.8576,180.9347)" />
+  <g
+     style="color:#00ffff;fill:none;stroke:#ff0000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter"
+     id="g62"
+     transform="translate(-1960.8576,180.9347)" />
+  <g
+     style="color:#ff0000;fill:none;stroke:currentColor;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter"
+     id="g68"
+     transform="translate(-1960.8576,180.9347)" />
+  <g
+     style="color:#ff0000;fill:none;stroke:#0000ff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter"
+     id="g70"
+     transform="translate(-1960.8576,180.9347)" />
+  <g
+     style="color:#008000;fill:none;stroke:currentColor;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter"
+     id="g72"
+     transform="translate(-1960.8576,180.9347)" />
+  <g
+     style="color:#008000;fill:none;stroke:#ff0000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter"
+     id="g74"
+     transform="translate(-1960.8576,180.9347)" />
+  <g
+     style="color:#0000ff;fill:none;stroke:currentColor;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter"
+     id="g76"
+     transform="translate(-1960.8576,180.9347)" />
+  <g
+     style="color:#0000ff;fill:none;stroke:#00ff00;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter"
+     id="g78"
+     transform="translate(-1960.8576,180.9347)" />
+  <g
+     style="color:#00ffff;fill:none;stroke:currentColor;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter"
+     id="g80"
+     transform="translate(-1960.8576,180.9347)" />
+  <g
+     id="g5051"
+     transform="matrix(2.8951634,0,0,2.9046393,-503.4184,-311.53928)"
+     inkscape:export-filename="/home/juan/desarrollo/ArmRobotKinematics/trunk/fig/g6033.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90">
+    <text
+       id="text5013"
+       y="312.65121"
+       x="303.48026"
+       style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="312.65121"
+         x="303.48026"
+         id="tspan5015"
+         sodipodi:role="line">q</tspan></text>
+    <text
+       id="text5021"
+       y="317.97025"
+       x="310.5723"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="317.97025"
+         x="310.5723"
+         id="tspan5023"
+         sodipodi:role="line">1</tspan></text>
+  </g>
+  <g
+     id="g4348"
+     transform="translate(897.71683,-4.3368396)">
+    <text
+       transform="scale(0.99836748,1.0016352)"
+       id="text5087"
+       y="626.23456"
+       x="-182.60866"
+       style="font-size:34.7987709px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="626.23456"
+         x="-182.60866"
+         id="tspan5089"
+         sodipodi:role="line">y</tspan></text>
+    <text
+       transform="scale(0.99836748,1.0016352)"
+       id="text5103"
+       y="637.14136"
+       x="-162.00679"
+       style="font-size:28.99897385px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="637.14136"
+         x="-162.00679"
+         id="tspan5105"
+         sodipodi:role="line">0</tspan></text>
+  </g>
+  <g
+     id="g5111"
+     transform="matrix(2.8951634,0,0,2.9046393,-722.2521,-584.94721)"
+     inkscape:export-filename="/home/juan/desarrollo/ArmRobotKinematics/trunk/fig/g6033.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90">
+    <text
+       id="text5095"
+       y="263.6965"
+       x="334.73993"
+       style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="263.6965"
+         x="334.73993"
+         id="tspan5097"
+         sodipodi:role="line">z</tspan></text>
+    <text
+       id="text5107"
+       y="268.29343"
+       x="341.00845"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="268.29343"
+         x="341.00845"
+         id="tspan5109"
+         sodipodi:role="line">0</tspan></text>
+  </g>
+  <use
+     height="789"
+     width="1052"
+     y="0"
+     x="0"
+     style="color:#0000ff;fill:#0000ff;stroke:currentColor;stroke-width:1.37935901;stroke-linecap:round;stroke-linejoin:miter"
+     id="use36-2"
+     transform="matrix(13.028235,0,0,13.070877,235.29018,645.35915)"
+     xlink:href="#gpPt5-9"
+     inkscape:export-filename="/home/juan/desarrollo/ArmRobotKinematics/trunk/fig/g6033.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <g
+     id="g5535"
+     transform="matrix(2.0754848,-2.0184979,2.0251045,2.0822779,-593.31882,128.77828)"
+     inkscape:export-filename="/home/juan/desarrollo/ArmRobotKinematics/trunk/fig/g6033.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90">
+    <text
+       id="text5509"
+       y="326.8353"
+       x="268.31555"
+       style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="326.8353"
+         x="268.31555"
+         id="tspan5511"
+         sodipodi:role="line">y</tspan></text>
+    <text
+       id="text5521"
+       y="331.85883"
+       x="274.22559"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="331.85883"
+         x="274.22559"
+         id="tspan5523"
+         sodipodi:role="line">1</tspan></text>
+  </g>
+  <g
+     id="g5529"
+     transform="matrix(1.9145302,-2.1717609,2.1788691,1.9207964,-858.31801,185.69952)"
+     inkscape:export-filename="/home/juan/desarrollo/ArmRobotKinematics/trunk/fig/g6033.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90">
+    <text
+       id="text5513"
+       y="359.04498"
+       x="277.47614"
+       style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="359.04498"
+         x="277.47614"
+         id="tspan5515"
+         sodipodi:role="line">z</tspan></text>
+    <text
+       id="text5525"
+       y="362.591"
+       x="284.27264"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="362.591"
+         x="284.27264"
+         id="tspan5527"
+         sodipodi:role="line">1</tspan></text>
+  </g>
+  <g
+     id="g4942"
+     transform="matrix(0.66541444,-0.74647413,0.74647413,0.66541444,-439.41951,-4.1548406)">
+    <text
+       transform="scale(0.9983675,1.0016352)"
+       id="text5095-1"
+       y="921.02747"
+       x="166.52713"
+       style="font-size:34.7987709px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="921.02747"
+         x="166.52713"
+         id="tspan5097-7"
+         sodipodi:role="line">l</tspan></text>
+    <text
+       transform="scale(0.99836748,1.0016352)"
+       id="text5107-0"
+       y="931.02026"
+       x="178.00784"
+       style="font-size:28.99897385px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="931.02026"
+         x="178.00784"
+         id="tspan5109-6"
+         sodipodi:role="line">1</tspan></text>
+  </g>
+  <path
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"
+     d="m 370.93796,644.52973 c 0,0 3.34322,-31.76059 -10.86547,-55.16313 -14.20869,-23.40255 -27.58157,-33.43221 -27.58157,-33.43221"
+     id="path5394"
+     sodipodi:nodetypes="csc" />
+</svg>

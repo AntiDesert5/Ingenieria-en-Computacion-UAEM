@@ -1,0 +1,776 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052"
+   height="789"
+   viewBox="0 0 1052 789"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="robot3.svg">
+  <metadata
+     id="metadata216">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1125"
+     id="namedview214"
+     showgrid="false"
+     inkscape:zoom="0.84601876"
+     inkscape:cx="655.05287"
+     inkscape:cy="404.22323"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <desc
+     id="desc4">Produced by GNUPLOT 4.2 patchlevel 6  </desc>
+  <defs
+     id="defs6">
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Mend"
+       style="overflow:visible;">
+      <path
+         id="path3837"
+         style="font-size:12.0;fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) rotate(180) translate(0,0)" />
+    </marker>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 394.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1052 : 394.5 : 1"
+       inkscape:persp3d-origin="526 : 263 : 1"
+       id="perspective218" />
+    <circle
+       id="gpDot"
+       r="0.5"
+       stroke-width="0.5" />
+    <path
+       id="gpPt0"
+       stroke-width="0.222"
+       stroke="currentColor"
+       d="M-1,0 h2 M0,-1 v2" />
+    <path
+       id="gpPt1"
+       stroke-width="0.222"
+       stroke="currentColor"
+       d="M-1,-1 L1,1 M1,-1 L-1,1" />
+    <path
+       id="gpPt2"
+       stroke-width="0.222"
+       stroke="currentColor"
+       d="M-1,0 L1,0 M0,-1 L0,1 M-1,-1 L1,1 M-1,1 L1,-1" />
+    <rect
+       id="gpPt3"
+       stroke-width="0.222"
+       stroke="currentColor"
+       x="-1"
+       y="-1"
+       width="2"
+       height="2" />
+    <rect
+       id="gpPt4"
+       stroke-width="0.222"
+       stroke="currentColor"
+       fill="currentColor"
+       x="-1"
+       y="-1"
+       width="2"
+       height="2" />
+    <circle
+       id="gpPt5"
+       stroke-width="0.222"
+       stroke="currentColor"
+       cx="0"
+       cy="0"
+       r="1" />
+    <use
+       xlink:href="#gpPt5"
+       id="gpPt6"
+       fill="currentColor"
+       stroke="none" />
+    <path
+       id="gpPt7"
+       stroke-width="0.222"
+       stroke="currentColor"
+       d="M0,-1.33 L-1.33,0.67 L1.33,0.67 z" />
+    <use
+       xlink:href="#gpPt7"
+       id="gpPt8"
+       fill="currentColor"
+       stroke="none" />
+    <use
+       xlink:href="#gpPt7"
+       id="gpPt9"
+       stroke="currentColor"
+       transform="rotate(180)" />
+    <use
+       xlink:href="#gpPt9"
+       id="gpPt10"
+       fill="currentColor"
+       stroke="none" />
+    <use
+       xlink:href="#gpPt3"
+       id="gpPt11"
+       stroke="currentColor"
+       transform="rotate(45)" />
+    <use
+       xlink:href="#gpPt11"
+       id="gpPt12"
+       fill="currentColor"
+       stroke="none" />
+    <inkscape:perspective
+       id="perspective5067"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-9"
+       style="overflow:visible">
+      <path
+         id="path3837-6"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <inkscape:perspective
+       id="perspective5743"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-9-9"
+       style="overflow:visible">
+      <path
+         id="path3837-6-7"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <inkscape:perspective
+       id="perspective5989"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-9-9-6"
+       style="overflow:visible">
+      <path
+         id="path3837-6-7-6"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+  </defs>
+  <rect
+     style="fill:#ffffff;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+     id="rect6045"
+     width="879.48053"
+     height="631.72791"
+     x="78.419777"
+     y="54.885368"
+     inkscape:export-filename="/home/juan/desarrollo/ArmRobotKinematics/trunk/fig/g6033.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend-9-9)"
+     d="m 647.45418,417.63665 53.77844,-71.0837"
+     id="path5791-2"
+     inkscape:export-filename="/home/juan/desarrollo/ArmRobotKinematics/trunk/fig/g6033.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend-9-9)"
+     d="m 647.85816,416.55581 61.03452,54.27388"
+     id="path5791"
+     inkscape:export-filename="/home/juan/desarrollo/ArmRobotKinematics/trunk/fig/g6033.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend-9)"
+     d="M 489.36174,263.00293 535.95465,188.7551"
+     id="path5547"
+     inkscape:export-filename="/home/juan/desarrollo/ArmRobotKinematics/trunk/fig/g6033.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend-9)"
+     d="M 489.62977,260.03223 423.68695,205.9893"
+     id="path5547-0"
+     inkscape:export-filename="/home/juan/desarrollo/ArmRobotKinematics/trunk/fig/g6033.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend-9)"
+     d="m 368.44302,443.70707 0,-63.51613"
+     id="path5129"
+     inkscape:export-filename="/home/juan/desarrollo/ArmRobotKinematics/trunk/fig/g6033.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+     d="m 368.37212,444.47448 0,-253.69594"
+     id="path4439"
+     inkscape:export-filename="/home/juan/desarrollo/ArmRobotKinematics/trunk/fig/g6033.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+     d="M 369.582,444.47448 243.75282,568.28781"
+     id="path3805"
+     inkscape:export-filename="/home/juan/desarrollo/ArmRobotKinematics/trunk/fig/g6033.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <g
+     style="color:#008000;fill:none;stroke:currentColor;stroke-width:0.17241988;stroke-linecap:butt;stroke-linejoin:miter"
+     id="g40"
+     transform="matrix(2.8951634,0,0,2.9046393,-1169.4059,-1046.1409)"
+     inkscape:export-filename="/home/juan/desarrollo/ArmRobotKinematics/trunk/fig/g6033.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90">
+    <path
+       d="m 572.5,530.6 -41,-17.6 m 97,41.7 -56,-24.1"
+       id="path42"
+       style="stroke:#ff0000;stroke-width:0.17241988" />
+  </g>
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+     d="m 365.87645,441.13208 461.98392,61.7995"
+     id="path3026"
+     inkscape:export-filename="/home/juan/desarrollo/ArmRobotKinematics/trunk/fig/g6033.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <path
+     style="color:#ff0000;fill:none;stroke:#0000ff;stroke-width:8;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+     id="path32"
+     d="M 488.07516,262.98007 369.37346,443.93911"
+     inkscape:export-filename="/home/juan/desarrollo/ArmRobotKinematics/trunk/fig/g6033.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <use
+     height="789"
+     width="1052"
+     y="0"
+     x="0"
+     style="color:#0000ff;fill:#0000ff;stroke:currentColor;stroke-width:1.37935901;stroke-linecap:round;stroke-linejoin:miter"
+     id="use34"
+     transform="matrix(13.028235,0,0,13.070877,488.07519,262.98009)"
+     xlink:href="#gpPt5"
+     inkscape:export-filename="/home/juan/desarrollo/ArmRobotKinematics/trunk/fig/g6033.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <g
+     style="color:#00ffff;fill:none;stroke:currentColor;stroke-width:0.17241988;stroke-linecap:butt;stroke-linejoin:miter"
+     id="g44"
+     transform="matrix(2.8951634,0,0,2.9046393,-1169.4059,-1046.1409)"
+     inkscape:export-filename="/home/juan/desarrollo/ArmRobotKinematics/trunk/fig/g6033.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90">
+    <path
+       d="m 637.4,558.6 -8.9,-3.9 m 5.1,2.3 -5.1,-2.3 m 12.1,5.3 -7,-3"
+       id="path46"
+       style="stroke:#ff0000;stroke-width:0.17241988" />
+  </g>
+  <path
+     style="color:#ff0000;fill:none;stroke:#0000ff;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+     id="path52"
+     d="M 650.20431,418.08781 488.07516,262.98007"
+     inkscape:export-filename="/home/juan/desarrollo/ArmRobotKinematics/trunk/fig/g6033.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <use
+     height="789"
+     width="1052"
+     y="0"
+     x="0"
+     style="color:#0000ff;fill:#0000ff;stroke:currentColor;stroke-width:1.37935901;stroke-linecap:butt;stroke-linejoin:miter"
+     id="use54"
+     transform="matrix(13.028235,0,0,13.070877,650.20434,418.08783)"
+     xlink:href="#gpPt5"
+     inkscape:export-filename="/home/juan/desarrollo/ArmRobotKinematics/trunk/fig/g6033.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <g
+     style="color:#00ffff;fill:none;stroke:currentColor;stroke-width:0.17241988;stroke-linecap:butt;stroke-linejoin:miter"
+     id="g58"
+     transform="matrix(2.8951634,0,0,2.9046393,-1169.4059,-1046.1409)"
+     inkscape:export-filename="/home/juan/desarrollo/ArmRobotKinematics/trunk/fig/g6033.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90">
+    <path
+       d="m 644.4,561.6 -7,-3"
+       id="path60"
+       style="stroke:#ff0000;stroke-width:0.17241988" />
+  </g>
+  <g
+     style="color:#0000ff;fill:none;stroke:currentColor;stroke-width:2.75871822;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+     id="g64"
+     transform="matrix(2.8951634,0,0,2.9046393,-1169.4059,-1046.1409)"
+     inkscape:export-filename="/home/juan/desarrollo/ArmRobotKinematics/trunk/fig/g6033.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90">
+    <path
+       d="m 628.5,504.1 5.1,19.5 m 7,6.7 -7,-6.7 m 3.8,-25.7 -8.9,6.2 m 15.9,0.5 -7,-6.7"
+       id="path66"
+       style="stroke:#00ff00;stroke-width:2.75871822;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none" />
+  </g>
+  <g
+     style="fill:none; color:white; stroke:currentColor; stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter"
+     id="g22" />
+  <g
+     style="fill:none; color:white; stroke:currentColor; stroke-width:0.50; stroke-linecap:butt; stroke-linejoin:miter"
+     id="g24" />
+  <g
+     style="fill:none; color:black; stroke:currentColor; stroke-width:0.50; stroke-linecap:butt; stroke-linejoin:miter"
+     id="g26" />
+  <g
+     style="fill:none; color:black; stroke:currentColor; stroke-width:4.00; stroke-linecap:butt; stroke-linejoin:miter"
+     id="g28" />
+  <g
+     style="fill:none; color:red; stroke:rgb(  0,   0, 255); stroke-width:0.50; stroke-linecap:butt; stroke-linejoin:miter"
+     id="g38" />
+  <g
+     style="fill:none; color:cyan; stroke:rgb(255,   0,   0); stroke-width:4.00; stroke-linecap:butt; stroke-linejoin:miter"
+     id="g48" />
+  <g
+     style="fill:none; color:red; stroke:rgb(  0,   0, 255); stroke-width:0.50; stroke-linecap:butt; stroke-linejoin:miter"
+     id="g56" />
+  <g
+     style="fill:none; color:cyan; stroke:rgb(255,   0,   0); stroke-width:4.00; stroke-linecap:butt; stroke-linejoin:miter"
+     id="g62" />
+  <g
+     style="fill:none; color:red; stroke:currentColor; stroke-width:4.00; stroke-linecap:butt; stroke-linejoin:miter"
+     id="g68" />
+  <g
+     style="fill:none; color:red; stroke:rgb(  0,   0, 255); stroke-width:0.50; stroke-linecap:butt; stroke-linejoin:miter"
+     id="g70" />
+  <g
+     style="fill:none; color:green; stroke:currentColor; stroke-width:0.50; stroke-linecap:butt; stroke-linejoin:miter"
+     id="g72" />
+  <g
+     style="fill:none; color:green; stroke:rgb(255,   0,   0); stroke-width:4.00; stroke-linecap:butt; stroke-linejoin:miter"
+     id="g74" />
+  <g
+     style="fill:none; color:blue; stroke:currentColor; stroke-width:4.00; stroke-linecap:butt; stroke-linejoin:miter"
+     id="g76" />
+  <g
+     style="fill:none; color:blue; stroke:rgb(  0, 255,   0); stroke-width:0.50; stroke-linecap:butt; stroke-linejoin:miter"
+     id="g78" />
+  <g
+     style="fill:none; color:cyan; stroke:currentColor; stroke-width:0.50; stroke-linecap:butt; stroke-linejoin:miter"
+     id="g80" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+     d="m 301.9421,514.55662 c 4.2066,2.61438 36.50218,21.34531 79.87358,18.76499 54.03804,-3.24691 91.42492,-38.66417 91.42492,-38.66417"
+     id="path4631"
+     sodipodi:nodetypes="csc"
+     inkscape:export-filename="/home/juan/desarrollo/ArmRobotKinematics/trunk/fig/g6033.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <g
+     id="g4821"
+     transform="matrix(2.8951634,0,0,2.9046393,-766.17392,-702.2619)"
+     inkscape:export-filename="/home/juan/desarrollo/ArmRobotKinematics/trunk/fig/g6033.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90">
+    <text
+       id="text4627"
+       y="436.17093"
+       x="393.31281"
+       style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="436.17093"
+         x="393.31281"
+         id="tspan4629"
+         sodipodi:role="line">q</tspan></text>
+    <text
+       id="text4817"
+       y="441.72299"
+       x="399.93274"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="441.72299"
+         x="399.93274"
+         id="tspan4819"
+         sodipodi:role="line">0</tspan></text>
+  </g>
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+     d="m 440.33305,470.60425 c 0,0 10.7001,-11.52125 8.4693,-44.30577 -1.97549,-29.03223 -24.80291,-50.98194 -24.80291,-50.98194"
+     id="path4827"
+     sodipodi:nodetypes="csc"
+     inkscape:export-filename="/home/juan/desarrollo/ArmRobotKinematics/trunk/fig/g6033.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <g
+     id="g5051"
+     transform="matrix(2.8951634,0,0,2.9046393,-425.48486,-487.60677)"
+     inkscape:export-filename="/home/juan/desarrollo/ArmRobotKinematics/trunk/fig/g6033.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90">
+    <text
+       id="text5013"
+       y="312.65121"
+       x="303.48026"
+       style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="312.65121"
+         x="303.48026"
+         id="tspan5015"
+         sodipodi:role="line">q</tspan></text>
+    <text
+       id="text5021"
+       y="317.97025"
+       x="310.5723"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="317.97025"
+         x="310.5723"
+         id="tspan5023"
+         sodipodi:role="line">1</tspan></text>
+  </g>
+  <g
+     id="g5045"
+     transform="matrix(2.8951634,0,0,2.9046393,-459.7059,-585.45592)"
+     inkscape:export-filename="/home/juan/desarrollo/ArmRobotKinematics/trunk/fig/g6033.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90">
+    <text
+       id="text5017"
+       y="297.58063"
+       x="347.21451"
+       style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="297.58063"
+         x="347.21451"
+         id="tspan5019"
+         sodipodi:role="line">q</tspan></text>
+    <text
+       id="text5025"
+       y="304.67267"
+       x="355.19305"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="304.67267"
+         x="355.19305"
+         id="tspan5027"
+         sodipodi:role="line">2</tspan></text>
+  </g>
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+     d="m 532.39383,297.02757 c 0,0 10.6931,-13.21215 7.94471,-36.71882 -1.81813,-15.55039 -23.91258,-29.88465 -23.91258,-29.88465"
+     id="path4827-8"
+     sodipodi:nodetypes="csc"
+     inkscape:export-filename="/home/juan/desarrollo/ArmRobotKinematics/trunk/fig/g6033.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <g
+     id="g5123"
+     transform="matrix(2.8951634,0,0,2.9046393,86.466345,-388.23082)"
+     inkscape:export-filename="/home/juan/desarrollo/ArmRobotKinematics/trunk/fig/g6033.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90">
+    <text
+       id="text5091"
+       y="300.47192"
+       x="258.68167"
+       style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="300.47192"
+         x="258.68167"
+         id="tspan5093"
+         sodipodi:role="line">y</tspan></text>
+    <text
+       id="text5099"
+       y="306.74045"
+       x="263.69647"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="306.74045"
+         x="263.69647"
+         id="tspan5101"
+         sodipodi:role="line">0</tspan></text>
+  </g>
+  <g
+     id="g5117"
+     transform="matrix(2.8951634,0,0,2.9046393,-600.7547,-237.71268)"
+     inkscape:export-filename="/home/juan/desarrollo/ArmRobotKinematics/trunk/fig/g6033.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90">
+    <text
+       id="text5087"
+       y="276.65149"
+       x="273.30826"
+       style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="276.65149"
+         x="273.30826"
+         id="tspan5089"
+         sodipodi:role="line">x</tspan></text>
+    <text
+       id="text5103"
+       y="280.4126"
+       x="280.4126"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="280.4126"
+         x="280.4126"
+         id="tspan5105"
+         sodipodi:role="line">0</tspan></text>
+  </g>
+  <g
+     id="g5111"
+     transform="matrix(2.8951634,0,0,2.9046393,-645.52085,-593.37253)"
+     inkscape:export-filename="/home/juan/desarrollo/ArmRobotKinematics/trunk/fig/g6033.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90">
+    <text
+       id="text5095"
+       y="263.6965"
+       x="334.73993"
+       style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="263.6965"
+         x="334.73993"
+         id="tspan5097"
+         sodipodi:role="line">z</tspan></text>
+    <text
+       id="text5107"
+       y="268.29343"
+       x="341.00845"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="268.29343"
+         x="341.00845"
+         id="tspan5109"
+         sodipodi:role="line">0</tspan></text>
+  </g>
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend-9)"
+     d="m 370.58186,444.5654 c 54.75365,24.03313 54.75365,24.03313 54.75365,24.03313"
+     id="path5317"
+     inkscape:export-filename="/home/juan/desarrollo/ArmRobotKinematics/trunk/fig/g6033.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <use
+     height="789"
+     width="1052"
+     y="0"
+     x="0"
+     style="color:#0000ff;fill:#0000ff;stroke:currentColor;stroke-width:1.37935901;stroke-linecap:round;stroke-linejoin:miter"
+     id="use36"
+     transform="matrix(13.028235,0,0,13.070877,369.37349,443.93913)"
+     xlink:href="#gpPt5"
+     inkscape:export-filename="/home/juan/desarrollo/ArmRobotKinematics/trunk/fig/g6033.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <g
+     id="g5535"
+     transform="matrix(2.8951634,0,0,2.9046393,-404.09673,-460.99868)"
+     inkscape:export-filename="/home/juan/desarrollo/ArmRobotKinematics/trunk/fig/g6033.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90">
+    <text
+       id="text5509"
+       y="326.8353"
+       x="268.31555"
+       style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="326.8353"
+         x="268.31555"
+         id="tspan5511"
+         sodipodi:role="line">y</tspan></text>
+    <text
+       id="text5521"
+       y="331.85883"
+       x="274.22559"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="331.85883"
+         x="274.22559"
+         id="tspan5523"
+         sodipodi:role="line">1</tspan></text>
+  </g>
+  <g
+     id="g5529"
+     transform="matrix(2.8951634,0,0,2.9046393,-484.51615,-647.25541)"
+     inkscape:export-filename="/home/juan/desarrollo/ArmRobotKinematics/trunk/fig/g6033.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90">
+    <text
+       id="text5513"
+       y="359.04498"
+       x="277.47614"
+       style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="359.04498"
+         x="277.47614"
+         id="tspan5515"
+         sodipodi:role="line">z</tspan></text>
+    <text
+       id="text5525"
+       y="362.591"
+       x="284.27264"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="362.591"
+         x="284.27264"
+         id="tspan5527"
+         sodipodi:role="line">1</tspan></text>
+  </g>
+  <g
+     id="g5779"
+     transform="matrix(2.8951634,0,0,2.9046393,-198.77055,-836.94543)"
+     inkscape:export-filename="/home/juan/desarrollo/ArmRobotKinematics/trunk/fig/g6033.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90">
+    <text
+       id="text5763"
+       y="354.31696"
+       x="256.19998"
+       style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="354.31696"
+         x="256.19998"
+         id="tspan5765"
+         sodipodi:role="line">y</tspan></text>
+    <text
+       id="text5771"
+       y="361.409"
+       x="261.51901"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="361.409"
+         x="261.51901"
+         id="tspan5773"
+         sodipodi:role="line">2</tspan></text>
+  </g>
+  <g
+     id="g5785"
+     transform="matrix(2.8951634,0,0,2.9046393,-413.50752,-832.65381)"
+     inkscape:export-filename="/home/juan/desarrollo/ArmRobotKinematics/trunk/fig/g6033.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90">
+    <text
+       id="text5767"
+       y="353.43045"
+       x="292.54669"
+       style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="353.43045"
+         x="292.54669"
+         id="tspan5769"
+         sodipodi:role="line">z</tspan></text>
+    <text
+       id="text5775"
+       y="358.15851"
+       x="299.04773"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="358.15851"
+         x="299.04773"
+         id="tspan5777"
+         sodipodi:role="line">2</tspan></text>
+  </g>
+  <g
+     id="g6039"
+     transform="matrix(2.8951634,0,0,2.9046393,-1169.7923,-678.15514)"
+     inkscape:export-filename="/home/juan/desarrollo/ArmRobotKinematics/trunk/fig/g6033.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90">
+    <text
+       id="text6017"
+       y="352.24844"
+       x="648.03528"
+       style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="352.24844"
+         x="648.03528"
+         id="tspan6019"
+         sodipodi:role="line">z</tspan></text>
+    <text
+       id="text6025"
+       y="356.38547"
+       x="653.94531"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="356.38547"
+         x="653.94531"
+         id="tspan6027"
+         sodipodi:role="line">3</tspan></text>
+  </g>
+  <g
+     id="g6033"
+     transform="matrix(2.8951634,0,0,2.9046393,-1230.5346,-648.11372)"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90">
+    <text
+       id="text6021"
+       y="378.25262"
+       x="670.78894"
+       style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="378.25262"
+         x="670.78894"
+         id="tspan6023"
+         sodipodi:role="line">y</tspan></text>
+    <text
+       id="text6029"
+       y="384.75363"
+       x="675.22144"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="384.75363"
+         x="675.22144"
+         id="tspan6031"
+         sodipodi:role="line">3</tspan></text>
+  </g>
+</svg>

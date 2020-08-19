@@ -1,0 +1,28 @@
+Message[302] C:\USERS\VALENZUELA\DOCUMENTS\SISTEMAS_DIGITALES\6\PROYECT6.ASM 62 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\VALENZUELA\DOCUMENTS\SISTEMAS_DIGITALES\6\PROYECT6.ASM 63 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\VALENZUELA\DOCUMENTS\SISTEMAS_DIGITALES\6\PROYECT6.ASM 64 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\VALENZUELA\DOCUMENTS\SISTEMAS_DIGITALES\6\PROYECT6.ASM 65 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\VALENZUELA\DOCUMENTS\SISTEMAS_DIGITALES\6\PROYECT6.ASM 68 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Error[118]   C:\USERS\VALENZUELA\DOCUMENTS\SISTEMAS_DIGITALES\6\PROYECT6.ASM 81 : Overwriting previous address contents (0004)
+Error[118]   C:\USERS\VALENZUELA\DOCUMENTS\SISTEMAS_DIGITALES\6\PROYECT6.ASM 81 : Overwriting previous address contents (0004)
+Error[118]   C:\USERS\VALENZUELA\DOCUMENTS\SISTEMAS_DIGITALES\6\PROYECT6.ASM 82 : Overwriting previous address contents (0005)
+Error[118]   C:\USERS\VALENZUELA\DOCUMENTS\SISTEMAS_DIGITALES\6\PROYECT6.ASM 82 : Overwriting previous address contents (0005)
+Error[118]   C:\USERS\VALENZUELA\DOCUMENTS\SISTEMAS_DIGITALES\6\PROYECT6.ASM 83 : Overwriting previous address contents (0006)
+Error[118]   C:\USERS\VALENZUELA\DOCUMENTS\SISTEMAS_DIGITALES\6\PROYECT6.ASM 83 : Overwriting previous address contents (0006)
+Error[118]   C:\USERS\VALENZUELA\DOCUMENTS\SISTEMAS_DIGITALES\6\PROYECT6.ASM 84 : Overwriting previous address contents (0007)
+Error[118]   C:\USERS\VALENZUELA\DOCUMENTS\SISTEMAS_DIGITALES\6\PROYECT6.ASM 84 : Overwriting previous address contents (0007)
+Error[118]   C:\USERS\VALENZUELA\DOCUMENTS\SISTEMAS_DIGITALES\6\PROYECT6.ASM 85 : Overwriting previous address contents (0008)
+Error[118]   C:\USERS\VALENZUELA\DOCUMENTS\SISTEMAS_DIGITALES\6\PROYECT6.ASM 85 : Overwriting previous address contents (0008)
+Error[118]   C:\USERS\VALENZUELA\DOCUMENTS\SISTEMAS_DIGITALES\6\PROYECT6.ASM 86 : Overwriting previous address contents (0009)
+Error[118]   C:\USERS\VALENZUELA\DOCUMENTS\SISTEMAS_DIGITALES\6\PROYECT6.ASM 86 : Overwriting previous address contents (0009)
+Error[118]   C:\USERS\VALENZUELA\DOCUMENTS\SISTEMAS_DIGITALES\6\PROYECT6.ASM 87 : Overwriting previous address contents (000A)
+Error[118]   C:\USERS\VALENZUELA\DOCUMENTS\SISTEMAS_DIGITALES\6\PROYECT6.ASM 87 : Overwriting previous address contents (000A)
+Error[118]   C:\USERS\VALENZUELA\DOCUMENTS\SISTEMAS_DIGITALES\6\PROYECT6.ASM 88 : Overwriting previous address contents (000B)
+Error[118]   C:\USERS\VALENZUELA\DOCUMENTS\SISTEMAS_DIGITALES\6\PROYECT6.ASM 88 : Overwriting previous address contents (000B)
+Error[118]   C:\USERS\VALENZUELA\DOCUMENTS\SISTEMAS_DIGITALES\6\PROYECT6.ASM 89 : Overwriting previous address contents (000C)
+Error[118]   C:\USERS\VALENZUELA\DOCUMENTS\SISTEMAS_DIGITALES\6\PROYECT6.ASM 89 : Overwriting previous address contents (000C)
+Error[118]   C:\USERS\VALENZUELA\DOCUMENTS\SISTEMAS_DIGITALES\6\PROYECT6.ASM 90 : Overwriting previous address contents (000D)
+Error[118]   C:\USERS\VALENZUELA\DOCUMENTS\SISTEMAS_DIGITALES\6\PROYECT6.ASM 90 : Overwriting previous address contents (000D)
+Error[118]   C:\USERS\VALENZUELA\DOCUMENTS\SISTEMAS_DIGITALES\6\PROYECT6.ASM 91 : Overwriting previous address contents (000E)
+Error[118]   C:\USERS\VALENZUELA\DOCUMENTS\SISTEMAS_DIGITALES\6\PROYECT6.ASM 91 : Overwriting previous address contents (000E)
+Message[305] C:\USERS\VALENZUELA\DOCUMENTS\SISTEMAS_DIGITALES\6\PROYECT6.ASM 214 : Using default destination of 1 (file).

@@ -1,0 +1,328 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass report
+\use_default_options true
+\maintain_unincluded_children false
+\language spanish-mexico
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize letterpaper
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 0
+\use_minted 0
+\index Índice
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 3.5cm
+\topmargin 2.5cm
+\rightmargin 2.5cm
+\bottommargin 2.5cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 2
+\paperpagestyle fancy
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+cleardoublepage
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+thispagestyle{empty}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+Desarrollo de actividades y problemas encontrados
+\end_layout
+
+\begin_layout Standard
+Sesión 1: 12 de agosto de 2019 
+\backslash
+
+\backslash
+
+\end_layout
+
+\begin_layout Standard
+La primer sesión que tuvimos el profesor organizo los equipos y nos asigno
+ computadoras , escogimos el nombre del equipo que en nuestro caso fue razer,
+ después procedimos a abrir cada una de las CPUs para ello trajimos desarmadores
+ y uno por uno fuimos extrayendo los componentes y anotándolos en la hoja
+ de cotejo que nos proporciono el profesor antes de iniciar la clase.
+ 
+\backslash
+
+\backslash
+ Hicimos un buen trabajo en equipo por lo cual nos termino sobrando tiempo
+ y decidimos proceder a tomar medidas para saber el largo de los cables
+ de red que cada computadora necesitaría.
+\end_layout
+
+\begin_layout Standard
+Por el momento no habíamos encontrado ningún problema, el equipo estaba
+ en buenas condiciones y solo nos faltaba ponchar los cables de red para
+ cada respectiva maquina.
+\end_layout
+
+\begin_layout Standard
+Quedando 3 medidas : Equipo 12 - 30cm, Equipo 11- 1.20m, Equipo 10 - 2m.
+ 
+\backslash
+
+\backslash
+ Decidimos hacer las etiquetas con un diseño de acuerdo a los colores de
+ la carrera y la universidad, colocamos el escudo de la carrera del lado
+ derecho, los datos del izquierdo y el nombre del equipo en el fondo de
+ la etiqueta, quedando de la siguiente manera.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename images/DisEtiqueta.jpg
+	scale 10
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Sesión 2 y 3: 19 de agosto y 26 de agosto de 2019
+\end_layout
+
+\begin_layout Standard
+Al principio de la clase colocamos las etiquetas a cada equipo que nos habían
+ asignado.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename images/Etiqpuesta.jpg
+	scale 10
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Nuestro equipo contaba con cable ftp de buena calidad así que se decidió
+ utilizarlo en este proyecto, llevamos todo lo necesario para ponchar el
+ cable , conectores RJ45 y pinzas para ponchar el cable.
+\end_layout
+
+\begin_layout Standard
+Fue en este paso de ponchar el cable que nos topamos con algo que desconocíamos,
+ al cortar el cable ftp nos dimos cuenta que contaba con 6 cables en vez
+ de 8 que es lo común.
+\end_layout
+
+\begin_layout Standard
+así que para solucionarlo pedimos ayuda al profesor para que nos dijera
+ si seria apropiado para el resto del proyecto seguir ocupando ese tipo
+ de cable, por lo que su respuesta fue que no habría ningún problema solo
+ teníamos que seguir el estándar T-568B pasando por alto los cables faltantes
+ en este caso los color café.
+\end_layout
+
+\begin_layout Standard
+Una vez hecha la inspección de las características de hardware de las computador
+as, procedimos a bootear el sistema operativo que necesitaríamos, el cual
+ era Centos 7 pero antes de eso teníamos que iniciar la recuperación del
+ sistema operativo windows 7 por medio de una copia de seguridad , para
+ realizar esto utilizamos la herramienta acronis.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename images/RecupWind.jpg
+	scale 10
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Cuando terminamos de instalar todos los sistemas operativos y checamos que
+ su funcionamiento era correcto procedimos a investigar como instalaríamos
+ el servidor Samba.
+ 
+\end_layout
+
+\begin_layout Standard
+Encontramos un buen video en Youtube donde nos explicaba como hacer un servidor
+ samba en una maquina virtual, así que tomamos la información del video
+ y la implementamos en los equipos, quedando nuestro servidor en el equipo
+ 11.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename images/Installsmb.jpg
+	scale 10
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Cuando Terminamos de Instalar Samba decidimos hacer ping en las computadoras
+ para verificar que todas se podrían conectar y no habria problemas a la
+ hora de probar samba.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename images/ping.jpg
+	scale 10
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+No tuvimos problemas a la hora de hacer ping.
+\end_layout
+
+\begin_layout Standard
+Etapa 2
+\end_layout
+
+\begin_layout Standard
+Sesión 1: 9 de Septiembre de 2019
+\end_layout
+
+\begin_layout Standard
+La primer sesión de la segunda etapa, como primer paso revisamos los lineamiento
+s que debía cumplir esta misma, comenzamos con la actualización del sistema
+ operativo CentOS así como los respectivos paquetes que requeríamos para
+ instalar los protocolos y servidores necesarios, ya que pudimos observar
+ que sin dicha actualización corríamos el riesgo de presentar errores al
+ momento de su implementación, comenzamos con l investigación de cómo es
+ que se instalaba el servidor web.
+\end_layout
+
+\begin_layout Standard
+Sesión 2: 11 de Septiembre de 2019
+\end_layout
+
+\begin_layout Standard
+En esta sesión terminamos de actualizar una pc que nos faltaba, ya que hubo
+ un inconveniente con unas máquina que se le había caído el sistema CentOS,
+ tuvimos que reinstalar el sistema operativo y volver a actualizar los paquetes
+ para proceder con su instalación, después de resolver eso , procedimos
+ a instalar en una pc el Servidor Web que en nuestro caso fue apache, y
+ por ultimo hicimos unas pruebas para rectificar la conexión, presentamos
+ algunos inconvenientes a la hora de ver la página con todos sus elementos.
+\end_layout
+
+\begin_layout Standard
+Sesión 3.
+ 16 de Septiembre de 2019
+\end_layout
+
+\begin_layout Standard
+Igual que en la anterior sesión nos surgieron algunos problemas, a las computado
+ras les quitaron el cable de red, lo cual nos impedía seguir con el siguiente
+ proceso ya que eran necesarios para poder instalar el servidor FTP y hacer
+ las respectivas pruebas, luego de corregir esa situación , procedimos a
+ indagar sobre la instalación del servidor FTP, una vez informados comenzamos
+ con la instalación de dicho protocolo, su configuración y la creación del
+ usuario FTP, por ultimo hicimos las pruebas correspondientes para comprobar
+ si podíamos acceder a dicho servicio.
+\end_layout
+
+\begin_layout Standard
+Sesión 4: 18 de Septiembre de 2019
+\end_layout
+
+\begin_layout Standard
+Comenzamos a realizar pruebas con el servidor web, la elaboración de nuestras
+ páginas, así como poder observarlas reflejadas en el sitio, comenzamos
+ en otra computadora con la instalación del servicio de DNS, para poder
+ acceder con el tanto a la página web como al FTP, en esta sesión se nos
+ presentaron varios factores que afectaron nuestro avance como el hecho
+ de que no lográbamos que las paginas se vieran de la misma forma en las
+ maquinas, ya que en unas computadoras se veía correctamente y en otra se
+ notaba que no era así, también a la hora de configurar e servicio DNS lo
+ cual no llegamos a concluir en esa sesión.
+\end_layout
+
+\end_body
+\end_document

@@ -1,0 +1,8 @@
+Warning[207] C:\USERS\VALENZUELA\DOCUMENTS\SISTEMAS_DIGITALES\LAB02\PLANTILLA.ASM 48 : Found label after column 1. (M)
+Warning[207] C:\USERS\VALENZUELA\DOCUMENTS\SISTEMAS_DIGITALES\LAB02\PLANTILLA.ASM 49 : Found label after column 1. (N)
+Message[302] C:\USERS\VALENZUELA\DOCUMENTS\SISTEMAS_DIGITALES\LAB02\PLANTILLA.ASM 58 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\VALENZUELA\DOCUMENTS\SISTEMAS_DIGITALES\LAB02\PLANTILLA.ASM 60 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\VALENZUELA\DOCUMENTS\SISTEMAS_DIGITALES\LAB02\PLANTILLA.ASM 62 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\VALENZUELA\DOCUMENTS\SISTEMAS_DIGITALES\LAB02\PLANTILLA.ASM 64 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\VALENZUELA\DOCUMENTS\SISTEMAS_DIGITALES\LAB02\PLANTILLA.ASM 65 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Error[129]   C:\USERS\VALENZUELA\DOCUMENTS\SISTEMAS_DIGITALES\LAB02\PLANTILLA.ASM 84 : Expected (END)

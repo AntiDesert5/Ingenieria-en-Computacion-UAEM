@@ -1,0 +1,102 @@
+\documentclass[10pt,a4paper]{article}
+\usepackage[latin1]{inputenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{multicol}
+\usepackage{changepage}
+\usepackage{float}
+\usepackage{cite}
+\usepackage{url}
+\usepackage{imakeidx}
+\makeindex
+
+\usepackage[left=2.50cm, right=2.50cm]{geometry}
+\usepackage[spanish]{babel}
+
+\author{Nombre}
+\title{Portada siempre practica}
+
+\begin{document}
+%encabezado 
+\pagestyle{plain}{
+\pagestyle{empty}
+\changepage{3cm}{1cm}{-0.5cm}{-0.5cm}{}{-2cm}{}{}{}
+\noindent
+
+%sEGIUN EL formato de sus imagenes, deben encontrar una configuracion adeacuada para ustedes
+{\small
+\begin{tabular}{p{0.626\textwidth} p{0.50\textwidth} }
+\includegraphics[scale=0.26]{uaem.jpg} &  \includegraphics[scale=0.3]{ico.jpg}
+\end{tabular}
+}
+
+%datos de la caratula
+\begin{center}
+\par\vspace{2cm} %Rspacoo dejado antes del encabezado
+{
+\Huge\textbf{
+Universidad Aut\'onoma del Estado de M\'exico \\[1cm] Ingenieria en Computaci\'on
+}
+}
+\par\vspace{1.5cm}
+{
+\Large\textbf{ Materia: Graficaci\'on
+}
+}
+\par\vspace{1.5cm}
+{
+\large\textbf{Axel Valenzuela Ju\'arez \\ 31 de Mayo del 2019  } 
+}
+\par\vspace{1.5cm}
+
+\end{center}
+\clearpage
+
+}
+
+\printindex
+
+\tableofcontents % indice de contenidos
+
+\cleardoublepage
+\addcontentsline{toc}{section}{Lista de figuras} % para que aparezca en el indice de contenidos
+\listoffigures % indice de figuras
+
+\cleardoublepage
+
+\section{Clase de 15 de febrero\index{Clase}
+}
+
+\paragraph{
+Se defini\'o la escala as\'i como los criterios a evaluar, el profesor nos mostr\'o la herramienta a utilizar todo el semestre y nos ayud\'o a instalar octave, una vez pasamos por todo el proceso de descarga y descargamos octave desde la p\'agina oficial.
+}
+\paragraph{
+Una vez instalado octave el profesor procedi\'o a explicarnos la sintaxis de Octave as\'i como la manera de compilar y revisar los errores.
+}
+
+\paragraph{Cada imagen esta compuesta de un numero finito de elementos, son referidos como elementos de imagen o pixel.}
+
+\section{
+Clase de 22 de febrero
+}
+\paragraph{
+Binarizaci\'on: es el proceso de volver todos los n\'umeros a unos y ceros esto en una imagen provoca pasarla a blancos y negros puros, realizamos en octave el proceso de binarizaci\'on , esto se realiz\'o con dos ciclos for y poniendo como condiciones que si el color era mayor que 126 se pasaba a negro y si era menor a 126 se pasaba a blancos de esa manera a la imagen se le borraron los grises claros y oscuros.
+}
+
+\paragraph{
+Despu\'es de realizar la binarizacion experimentamos con distintas gr\'aficas y a las im\'agenes les dimos distintos tipos de grises de esa manera empezamos a aplicar filtros a las im\'agenes los resultados pueden ser observados en las imagenes \ref{fig:Binarizacion} ,\ref{fig:Binarizacion2},\ref{fig:Binarizacion3}.
+}
+\begin{figure}[h]
+\includegraphics[scale=0.6] {Binarizacion.png}
+\caption{Imagen binarizada a negros y blancos puros}
+\label{fig:Binarizacion}
+\end{figure}
+
+\section{Referencias}
+\paragraph{$http://minisconlatex.blogspot.com/2011/04/como-escribir-una-tesis-con-latex.html$ Recuperado el 28 de mayo del 2019}
+\paragraph{$Digital Image Processing, Rafael C. Gonzalez,1977$ Recuperado el 1 de mayo del 2019}
+
+
+\end{document}

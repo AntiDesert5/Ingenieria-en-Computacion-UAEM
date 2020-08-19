@@ -1,0 +1,5 @@
+Warning[207] C:\USERS\VALENZUELA\DOCUMENTS\SISTEMAS_DIGITALES\LAB1.ASM 65 : Found label after column 1. (CONFIG_PTOS)
+Message[302] C:\USERS\VALENZUELA\DOCUMENTS\SISTEMAS_DIGITALES\LAB1.ASM 68 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\VALENZUELA\DOCUMENTS\SISTEMAS_DIGITALES\LAB1.ASM 70 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\VALENZUELA\DOCUMENTS\SISTEMAS_DIGITALES\LAB1.ASM 72 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\VALENZUELA\DOCUMENTS\SISTEMAS_DIGITALES\LAB1.ASM 73 : Register in operand not in bank 0.  Ensure that bank bits are correct.

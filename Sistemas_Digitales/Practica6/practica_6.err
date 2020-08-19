@@ -1,0 +1,9 @@
+Warning[205] C:\USERS\VALENZUELA\DOCUMENTS\SISTEMAS_DIGITALES\PRACTICA6\PRACTICA_6.ASM 25 : Found directive in column 1. (ORG)
+Message[302] C:\USERS\VALENZUELA\DOCUMENTS\SISTEMAS_DIGITALES\PRACTICA6\PRACTICA_6.ASM 34 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\VALENZUELA\DOCUMENTS\SISTEMAS_DIGITALES\PRACTICA6\PRACTICA_6.ASM 35 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\VALENZUELA\DOCUMENTS\SISTEMAS_DIGITALES\PRACTICA6\PRACTICA_6.ASM 37 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\VALENZUELA\DOCUMENTS\SISTEMAS_DIGITALES\PRACTICA6\PRACTICA_6.ASM 38 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\VALENZUELA\DOCUMENTS\SISTEMAS_DIGITALES\PRACTICA6\PRACTICA_6.ASM 44 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\VALENZUELA\DOCUMENTS\SISTEMAS_DIGITALES\PRACTICA6\PRACTICA_6.ASM 47 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\VALENZUELA\DOCUMENTS\SISTEMAS_DIGITALES\PRACTICA6\PRACTICA_6.ASM 48 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[305] C:\USERS\VALENZUELA\DOCUMENTS\SISTEMAS_DIGITALES\PRACTICA6\PRACTICA_6.ASM 223 : Using default destination of 1 (file).

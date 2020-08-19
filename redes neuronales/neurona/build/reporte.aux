@@ -1,0 +1,47 @@
+\relax 
+\catcode `"\active 
+\catcode `<\active 
+\catcode `>\active 
+\@nameuse{es@quoting}
+\babel@aux{spanish}{}
+\@writefile{toc}{\contentsline {section}{\numberline {1} Introducci\'on a Red Neuronal Feed Forward }{2}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {1.1}Red Neuronal Feed Forward}{2}\protected@file@percent }
+\@writefile{toc}{\contentsline {paragraph}{ Pueden clasificarse en distintas categor\'ias. }{2}\protected@file@percent }
+\@writefile{toc}{\contentsline {paragraph}{ En las redes feedforward se empieza con un vector de entradas el cual es equivalente en magnitud al n\'umero de neuronas de la primera capa de la red, las cuales procesan dicho vector elemento por elemento en paralelo. }{2}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces Red Feedforward.}}{2}\protected@file@percent }
+\newlabel{fig:Compuertas}{{1}{2}}
+\@writefile{toc}{\contentsline {paragraph}{ La informaci\'on, modificada por los factores multiplicativos de los pesos en cada neurona, es transmitida hacia delante por la red pasando por las capas ocultas para finalmente ser procesada por la capa de salida. Es por eso que este tipo de redes reciben su nombre. feedforward son las m\'as sencillas en cuanto a implementaci\'on y simulaci\'on, pero su desempenio es bueno para aplicaciones en los que no se requiera que la red retenga informaci\'on de eventos pasados como ayuda para evaluar eventos futuros. en la Fig:\ref  {fig:Compuertas} }{2}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {1.2}Desarrollo}{2}\protected@file@percent }
+\@writefile{toc}{\contentsline {paragraph}{El desarrollo puede ser f\'acil de entender, es una red multicapa la cual queremos ocupar en m\'ultiples casos, por lo cual se tiene que comprender el funcionamiento de una neurona anteriormente visto en otras pr\'acticas. Se debe identificar la estructura de una red multicapa la cual est\'a compuesta por una capa de entrada, una o m\'ultiples capas ocultas y una capa de salida. En cada una de ellas se deber\'a sacar el resultado de la red con la siguiente ecuaci\'on: $Y=f(w^t(x))$ }{2}\protected@file@percent }
+\@writefile{toc}{\contentsline {paragraph}{Se puede comenzar partiendo del codigo visto en clase de como hacer una red neuronal fija.}{2}\protected@file@percent }
+\@writefile{toc}{\contentsline {paragraph}{En este caso la primer modificaci\'on sera pedir al usuario los requisitos de la practica, siendo ,N\'umero de entradas (valor entero) ,N\'umero de capas ocultas (valor entero) ,N\'umero de neuronas en cada capa oculta (lista de valores enteros) ,N\'umero de salidas (valor entero).}{3}\protected@file@percent }
+\@writefile{toc}{\contentsline {paragraph}{Se crea un ciclo for el cual ayudara a crear las multiples capas que sean necesarias, se le agrego un mas 2 por la capa de entrada y salida, se usaron 3 if para determinar en que capa se encontrara el algoritmo, en la linea 25 se puede observar que se crea una matriz con n\'umeros aleatorios para las entradas, posteriormente se le agregara un 1 a la matriz.}{3}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces Previsualizaci\'on de Codigo.}}{3}\protected@file@percent }
+\newlabel{fig:cod1}{{2}{3}}
+\@writefile{toc}{\contentsline {paragraph}{Se creara la matriz w en la linea 28, despues se calculara la matriz transpuesta entre w y los datos de entrada asi como se le pasara los datos para ser calculados en la funcion funcAct, como se puede observar en la Fig: \ref  {fig:cod1}}{3}\protected@file@percent }
+\@writefile{toc}{\contentsline {paragraph}{Obtendremos el resultado y se agregara un 1 a la matriz para ser ocupado posteriormente.}{3}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces Codigo correspondiente a capa oculta.}}{3}\protected@file@percent }
+\newlabel{fig:cod2}{{3}{3}}
+\@writefile{toc}{\contentsline {paragraph}{El algoritmo pasara al caso de las capas ocultas, en esta parte del c\'odigo que comienza desde la l\~A\-nea 34 se realizaran los c\'alculos dependiendo el n\'umero de capas ocultas dado. El algoritmo funciona muy parecido a la primer parte , solo que en este caso se tiene que tener presente los resultados de las neuronas anteriores para ello me apoye de la variable fy obteniendo el n\'umero de filas o neuronas, a partir de ese punto el procedimiento se repite, se creara una matriz w con n\'umeros aleatorios y despu\'es se calculara la matriz transpuesta para ser pasada por la funci\'on funcAct, como se puede observar en la Fig: \ref  {fig:cod2}}{4}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {4}{\ignorespaces Codigo completo.}}{4}\protected@file@percent }
+\newlabel{fig:cod3}{{4}{4}}
+\@writefile{toc}{\contentsline {paragraph}{Para finalizar el c\'odigo pasa a la secci\'on de la capa de salida, para ello es nuevamente necesario apoyarse de una variable en este caso fq para saber la cantidad de neuronas en la anterior iteraci\'on, despu\'es de eso el algoritmo ser\'a el mismo , se calculara la matriz transpuesta y se pasara a la funci\'on funcAct para obtener el resultado final, el cual se imprimir\'a en la variable Y, como se puede observaren la Fig: \ref  {fig:cod3} }{4}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {2}Pruebas Desarrolladas}{5}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {5}{\ignorespaces Prueba 1.}}{5}\protected@file@percent }
+\newlabel{fig:p1}{{5}{5}}
+\@writefile{lof}{\contentsline {figure}{\numberline {6}{\ignorespaces Prueba 2.}}{5}\protected@file@percent }
+\newlabel{fig:p2}{{6}{5}}
+\@writefile{lof}{\contentsline {figure}{\numberline {7}{\ignorespaces Prueba 3.}}{6}\protected@file@percent }
+\newlabel{fig:p3}{{7}{6}}
+\@writefile{lof}{\contentsline {figure}{\numberline {8}{\ignorespaces Prueba 4.}}{6}\protected@file@percent }
+\newlabel{fig:p4}{{8}{6}}
+\@writefile{lof}{\contentsline {figure}{\numberline {9}{\ignorespaces Prueba 5.}}{7}\protected@file@percent }
+\newlabel{fig:p5}{{9}{7}}
+\@writefile{lof}{\contentsline {figure}{\numberline {10}{\ignorespaces Prueba 6.}}{7}\protected@file@percent }
+\newlabel{fig:p6}{{10}{7}}
+\@writefile{toc}{\contentsline {section}{\numberline {3}Conclusion}{7}\protected@file@percent }
+\@writefile{toc}{\contentsline {paragraph}{En conclusion el algoritmo de Feed Forward demuestra el potencial que tienen las redes multicapa, logrando analizar multiples clases y dando solucion a gran mayoria de ploblemas, Feed Forward es facil de programar e implementar.}{7}\protected@file@percent }
+\@writefile{toc}{\contentsline {paragraph}{Es de gran utilidad conocer el funcionamiento de este algoritmo ya que un ingeniero debe saber como funcionan las cosas para poder ser capaz de innovar y crear cosas nuevas.}{7}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {4}Referencias}{8}\protected@file@percent }
+\@writefile{toc}{\contentsline {paragraph}{L\'opez, J. P. (2014). RED NEURONAL FEEDFORWARD. Sanfandila, Qro: T\'ecnica No. 406.}{8}\protected@file@percent }
+\@writefile{toc}{\contentsline {paragraph}{Ortega, J. M. (2018). APLICACI\'ON DE UNA RED NEURONAL . Creative Commons Atribuci\'on-NoComercial-CompartirIgual 3.0 Internacional.}{8}\protected@file@percent }

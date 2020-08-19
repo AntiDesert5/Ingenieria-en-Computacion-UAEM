@@ -1,0 +1,8 @@
+Message[302] C:\USERS\VALENZUELA\DOCUMENTS\SISTEMAS_DIGITALES\PROYECTO2\PROYECT2.ASM 74 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\VALENZUELA\DOCUMENTS\SISTEMAS_DIGITALES\PROYECTO2\PROYECT2.ASM 76 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\VALENZUELA\DOCUMENTS\SISTEMAS_DIGITALES\PROYECTO2\PROYECT2.ASM 78 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\VALENZUELA\DOCUMENTS\SISTEMAS_DIGITALES\PROYECTO2\PROYECT2.ASM 79 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[211] C:\USERS\VALENZUELA\DOCUMENTS\SISTEMAS_DIGITALES\PROYECTO2\PROYECT2.ASM 90 : Extraneous arguments on the line.
+Warning[202] C:\USERS\VALENZUELA\DOCUMENTS\SISTEMAS_DIGITALES\PROYECTO2\PROYECT2.ASM 95 : Argument out of range.  Least significant bits used.
+Warning[202] C:\USERS\VALENZUELA\DOCUMENTS\SISTEMAS_DIGITALES\PROYECTO2\PROYECT2.ASM 96 : Argument out of range.  Least significant bits used.
+Warning[205] C:\USERS\VALENZUELA\DOCUMENTS\SISTEMAS_DIGITALES\PROYECTO2\PROYECT2.ASM 100 : Found directive in column 1. (END)

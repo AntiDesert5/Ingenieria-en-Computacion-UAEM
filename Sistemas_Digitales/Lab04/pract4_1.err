@@ -1,0 +1,10 @@
+Message[302] C:\USERS\VALENZUELA\DOCUMENTS\SISTEMAS_DIGITALES\LAB04\PRACT4_1.ASM 23 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\VALENZUELA\DOCUMENTS\SISTEMAS_DIGITALES\LAB04\PRACT4_1.ASM 25 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\VALENZUELA\DOCUMENTS\SISTEMAS_DIGITALES\LAB04\PRACT4_1.ASM 27 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\VALENZUELA\DOCUMENTS\SISTEMAS_DIGITALES\LAB04\PRACT4_1.ASM 29 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\VALENZUELA\DOCUMENTS\SISTEMAS_DIGITALES\LAB04\PRACT4_1.ASM 30 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\VALENZUELA\DOCUMENTS\SISTEMAS_DIGITALES\LAB04\PRACT4_1.ASM 34 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Error[113]   C:\USERS\VALENZUELA\DOCUMENTS\SISTEMAS_DIGITALES\LAB04\PRACT4_1.ASM 43 : Symbol not previously defined (POS0)
+Error[113]   C:\USERS\VALENZUELA\DOCUMENTS\SISTEMAS_DIGITALES\LAB04\PRACT4_1.ASM 45 : Symbol not previously defined (m1_izquierda)
+Error[113]   C:\USERS\VALENZUELA\DOCUMENTS\SISTEMAS_DIGITALES\LAB04\PRACT4_1.ASM 46 : Symbol not previously defined (m2_izquierda)
+Message[305] C:\USERS\VALENZUELA\DOCUMENTS\SISTEMAS_DIGITALES\LAB04\PRACT4_1.ASM 184 : Using default destination of 1 (file).

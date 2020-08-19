@@ -1,0 +1,9 @@
+Message[302] C:\USERS\VALENZUELA\DOCUMENTS\SISTEMAS_DIGITALES\LAB06\PRACT6.ASM 23 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\VALENZUELA\DOCUMENTS\SISTEMAS_DIGITALES\LAB06\PRACT6.ASM 25 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\VALENZUELA\DOCUMENTS\SISTEMAS_DIGITALES\LAB06\PRACT6.ASM 27 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\VALENZUELA\DOCUMENTS\SISTEMAS_DIGITALES\LAB06\PRACT6.ASM 29 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\VALENZUELA\DOCUMENTS\SISTEMAS_DIGITALES\LAB06\PRACT6.ASM 30 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\VALENZUELA\DOCUMENTS\SISTEMAS_DIGITALES\LAB06\PRACT6.ASM 34 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[202] C:\USERS\VALENZUELA\DOCUMENTS\SISTEMAS_DIGITALES\LAB06\PRACT6.ASM 98 : Argument out of range.  Least significant bits used.
+Warning[202] C:\USERS\VALENZUELA\DOCUMENTS\SISTEMAS_DIGITALES\LAB06\PRACT6.ASM 102 : Argument out of range.  Least significant bits used.
+Message[305] C:\USERS\VALENZUELA\DOCUMENTS\SISTEMAS_DIGITALES\LAB06\PRACT6.ASM 107 : Using default destination of 1 (file).

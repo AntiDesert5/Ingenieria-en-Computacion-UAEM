@@ -1,0 +1,44 @@
+MPLINK 4.49, Linker
+Linker Map File - Created Sun Mar 08 19:26:07 2020
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x00006e
+  .config_2007_PRACT4_1.O       code   0x002007    program   0x000002
+  .config_2008_PRACT4_1.O       code   0x002008    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000036      
+                            0x002007    0x002008      
+            57 out of 8455 program addresses used, program memory utilization is 0%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                PRINCIPAL   0x000012    program     static C:\Users\Valenzuela\Documents\Sistemas_Digitales\Lab04\pract4_1.asm
+                     PTOS   0x000001    program     static C:\Users\Valenzuela\Documents\Sistemas_Digitales\Lab04\pract4_1.asm
+                    TABLA   0x000018    program     static C:\Users\Valenzuela\Documents\Sistemas_Digitales\Lab04\pract4_1.asm
+                  _espera   0x000032    program     static C:\Users\Valenzuela\Documents\Sistemas_Digitales\Lab04\pract4_1.asm
+                 _espera1   0x00002f    program     static C:\Users\Valenzuela\Documents\Sistemas_Digitales\Lab04\pract4_1.asm
+                 _retardo   0x00002d    program     static C:\Users\Valenzuela\Documents\Sistemas_Digitales\Lab04\pract4_1.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                     PTOS   0x000001    program     static C:\Users\Valenzuela\Documents\Sistemas_Digitales\Lab04\pract4_1.asm
+                PRINCIPAL   0x000012    program     static C:\Users\Valenzuela\Documents\Sistemas_Digitales\Lab04\pract4_1.asm
+                    TABLA   0x000018    program     static C:\Users\Valenzuela\Documents\Sistemas_Digitales\Lab04\pract4_1.asm
+                 _retardo   0x00002d    program     static C:\Users\Valenzuela\Documents\Sistemas_Digitales\Lab04\pract4_1.asm
+                 _espera1   0x00002f    program     static C:\Users\Valenzuela\Documents\Sistemas_Digitales\Lab04\pract4_1.asm
+                  _espera   0x000032    program     static C:\Users\Valenzuela\Documents\Sistemas_Digitales\Lab04\pract4_1.asm
+
+

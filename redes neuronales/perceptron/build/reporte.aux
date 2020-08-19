@@ -1,0 +1,38 @@
+\relax 
+\catcode `"\active 
+\catcode `<\active 
+\catcode `>\active 
+\@nameuse{es@quoting}
+\babel@aux{spanish}{}
+\@writefile{toc}{\contentsline {section}{\numberline {1} Perceptr\'on Simple }{2}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces Entradas del Perceptr\'on.}}{2}\protected@file@percent }
+\newlabel{fig:Eperceptron}{{1}{2}}
+\@writefile{toc}{\contentsline {paragraph}{Se necesita comprender el funcionamiento del perceptr\'on simple para empezar a programar, as\'i que el primer paso fue revisar las presentaciones que nos proporcion\'o el profesor. Un perceptr\'on simple recibe 2 entradas, un vector de entrada y una vector de salida. Fig: \ref  {fig:Eperceptron}}{2}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces Representaci\'on de un perceptr\'on.}}{2}\protected@file@percent }
+\newlabel{fig:Rperceptron}{{2}{2}}
+\@writefile{toc}{\contentsline {paragraph}{Para aplicar el perceptr\'on es necesario determinar los vectores de W, un perceptr\'on recibe dos entradas y un vector w para as\'i obtener una salida, se puede ver la representaci\'on de un perceptr\'on a continuaci\'on. Fig: \ref  {fig:Rperceptron} }{2}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces Pormula para predecir el resultado de un perceptr\'on.}}{2}\protected@file@percent }
+\newlabel{fig:Formula}{{3}{2}}
+\@writefile{toc}{\contentsline {paragraph}{Para predecir la respuesta del perceptr\'on se ocupa la siguiente formula. Fig: \ref  {fig:Formula}}{2}\protected@file@percent }
+\@writefile{toc}{\contentsline {paragraph}{El algoritmo que ocupa el perceptr\'on es muy simple ya que se compone de dos for y un if y su respectivo else, se multiplica el vector W por el vector X, para poder multiplicarlos se necesita sacar la transpuesta de W, y despu\'es simplemente se compara el resultado, si el resultado es mayor que 0 se le asigna el valor de 1 a $"y"$ y si es menor se le asigna un 0.}{2}\protected@file@percent }
+\@writefile{toc}{\contentsline {paragraph}{Lo interesante del algoritmo es la \'ultima parte ya que en esta es donde se decide la frontera de decisi\'on m\'as optima a base de los resultados de Y, el algoritmo est\'a hecho para que la frontera de decisi\'on se mueva seg\'un m\'as convenga hasta obtener un resultado \'optimo. Fig: \ref  {fig:Algo} }{2}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {4}{\ignorespaces Algoritmo para implementar el Perceptr\'on Simple.}}{3}\protected@file@percent }
+\newlabel{fig:Algo}{{4}{3}}
+\@writefile{toc}{\contentsline {section}{\numberline {2} Codificaci\'on }{3}\protected@file@percent }
+\@writefile{toc}{\contentsline {paragraph}{El Primer paso en mi caso fue leer los datos de prueba, sacar los datos de la clase para tenerlos disponibles ya que se ocupan m\'as adelante en el algoritmo. Tambi\'en separe los datos que en este caso serian X (x1,x2) para posteriormente agregarle una columna con n\'umeros 1. }{3}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {5}{\ignorespaces Primer fragmento de codigo.}}{3}\protected@file@percent }
+\newlabel{fig:CreacionW}{{5}{3}}
+\@writefile{toc}{\contentsline {paragraph}{Como siguiente paso cont\'e las columnas que exist\'ian esto para que el programa tenga la opci\'on de funcionar independientemente de la cantidad de datos que se metan, el siguiente paso que decid\'i hacer fue crear N n\'umeros aleatorios para el vector de W, en este caso fueron 3, ya que es el n\'umero de columnas m\'as 1 e inmediatamente saque la transpuesta de W ya que as\'i lo dicta el algoritmo. Fig: \ref  {fig:CreacionW} }{3}\protected@file@percent }
+\@writefile{toc}{\contentsline {paragraph}{Cree una matriz de n\'umeros 1, para agregarse a los datos X y la agregue con la instrucci\'on append. Despu\'es de realizar esto empec\'e a crear el algoritmo como lo muestra la Fig: \ref  {fig:Algo} }{3}\protected@file@percent }
+\@writefile{toc}{\contentsline {paragraph}{Se multiplica el vector W por el vector X con el resultado se compara en un if si es mayor a 0 se le asignara el valor de 1 a Y, si es menor a 0 se le asignara un 0 a Y. Esto se realiza por cada fila que contenga X, al final el algoritmo corrige a W aument\'andole o rest\'andole valores.}{4}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {6}{\ignorespaces Uso de W para los datos de testing.}}{4}\protected@file@percent }
+\newlabel{fig:testing}{{6}{4}}
+\@writefile{toc}{\contentsline {paragraph}{Una vez que obtuve el mejor valor de W lo mande a otra funci\'on para aplicarlo a los datos de test, para hacerlo utilice lo que ya hab\'ia hecho antes, leer el archivo, obtener el total de filas y aumentar una columna de unos. Multiplique a W por el vector de X de los datos de testing, y simplemente imprim\'i a Y como lo muestra la Fig: \ref  {fig:testing}}{4}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {7}{\ignorespaces Comparaci\'on del Resultado de la Ejecuci\'on del Programa.}}{4}\protected@file@percent }
+\newlabel{fig:Res}{{7}{4}}
+\@writefile{toc}{\contentsline {paragraph}{Para finalizar ejecute el programa y compare los resultados, los cuales se pueden observar en la Fig: \ref  {fig:Res} }{4}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {3}Conclusion}{4}\protected@file@percent }
+\@writefile{toc}{\contentsline {paragraph}{El perceptr\'on simple nos muestra como algo tan simple logra un gran resultado, espec\'ificamente en lograr obtener la mejor frontera de decisi\'on para un caso en particular, esto permite tener m\'as autonom\'ia ya que no se adivina ni se calcula por otra persona. En conclusi\'on el perceptr\'on simple es un gran comienzo a la hora de adentrarnos a las redes neuronales, es simple, efectivo y demuestra que a veces menos es m\'as.}{5}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {4}Referencias}{5}\protected@file@percent }
+\@writefile{toc}{\contentsline {paragraph}{Kumar, N. (14 de Octubre de 2019). hackernoon.com. Obtenido de $https://hackernoon.com/implementing-the-perceptron-algorithm-from-scratch-in-python-48be2d07b1c0$ }{5}\protected@file@percent }
+\@writefile{toc}{\contentsline {paragraph}{CHAU, L . A.2019.El perceptr\'on. Zumpango: INGENIER\'IA EN COMPUTACI\'ON.}{5}\protected@file@percent }

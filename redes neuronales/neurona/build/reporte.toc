@@ -1,0 +1,14 @@
+\babel@toc {spanish}{}
+\contentsline {section}{Lista de figuras}{3}% 
+\contentsline {section}{\numberline {1}Clase de 15 de febrero }{4}% 
+\contentsline {paragraph}{ Se defini\'o la escala as\'i como los criterios a evaluar, el profesor nos mostr\'o la herramienta a utilizar todo el semestre y nos ayud\'o a instalar octave, una vez pasamos por todo el proceso de descarga y descargamos octave desde la p\'agina oficial. }{4}% 
+\contentsline {paragraph}{ Una vez instalado octave el profesor procedi\'o a explicarnos la sintaxis de Octave as\'i como la manera de compilar y revisar los errores. }{4}% 
+\contentsline {paragraph}{Cada imagen esta compuesta de un numero finito de elementos, son referidos como elementos de imagen o pixel.}{4}% 
+\contentsline {section}{\numberline {2} Clase de 22 de febrero }{4}% 
+\contentsline {paragraph}{ Binarizaci\'on: es el proceso de volver todos los n\'umeros a unos y ceros esto en una imagen provoca pasarla a blancos y negros puros, realizamos en octave el proceso de binarizaci\'on , esto se realiz\'o con dos ciclos for y poniendo como condiciones que si el color era mayor que 126 se pasaba a negro y si era menor a 126 se pasaba a blancos de esa manera a la imagen se le borraron los grises claros y oscuros. }{4}% 
+\contentsline {paragraph}{ Despu\'es de realizar la binarizacion experimentamos con distintas gr\'aficas y a las im\'agenes les dimos distintos tipos de grises de esa manera empezamos a aplicar filtros a las im\'agenes los resultados pueden ser observados en las imagenes \ref {fig:Binarizacion} ,\ref {fig:Binarizacion2},\ref {fig:Binarizacion3}. }{4}% 
+\contentsline {section}{\numberline {3} Clasificador Bayesiano }{5}% 
+\contentsline {paragraph}{Antes de empezar a programar fue necesario comprender el algoritmo bayesiano para eso hice uso de los apuntes vistos en clase y las diapositivas subidas por el profesor. Para predecir la clase o categoria, se calculan todas las probabilidades de cada clase y se toma la mayor}{5}% 
+\contentsline {section}{\numberline {4}Referencias}{5}% 
+\contentsline {paragraph}{$http://minisconlatex.blogspot.com/2011/04/como-escribir-una-tesis-con-latex.html$ Recuperado el 28 de mayo del 2019}{5}% 
+\contentsline {paragraph}{$Digital Image Processing, Rafael C. Gonzalez,1977$ Recuperado el 1 de mayo del 2019}{5}% 

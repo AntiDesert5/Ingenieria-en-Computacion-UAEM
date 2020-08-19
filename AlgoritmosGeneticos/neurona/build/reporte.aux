@@ -1,0 +1,32 @@
+\relax 
+\catcode `"\active 
+\catcode `<\active 
+\catcode `>\active 
+\@nameuse{es@quoting}
+\babel@aux{spanish}{}
+\@writefile{toc}{\contentsline {section}{\numberline {1} Problema: Encontrar contrasenia por medio de furza bruta }{2}\protected@file@percent }
+\@writefile{toc}{\contentsline {paragraph}{ El problema consiste en encontrar una contrasenia donde las posibles combinaciones estaban dadas por \'unicamente vocales y una longitud de 4 , esto por medio de encontrar todas las posibles combinaciones hasta dar con la correcta, en este caso ser\'ia r\'apido pero con m\'as combinaciones ser\'ia un m\'etodo muy tardado y hoy en d\'ia casi in\'util a la hora de poner en pr\'actica. Siendo este un gran ejemplo para demostrar la gran utilidad de los algoritmos gen\'eticos en este caso a la hora de encontrar una contrasenia, Claro siendo este primer taller la demostraci\'on del m\'etodo largo y muy poco practico que resulta ser utilizar fuerza bruta. }{2}\protected@file@percent }
+\@writefile{toc}{\contentsline {paragraph}{ Un ataque de fuerza bruta es un m\'etodo de prueba y error utilizado para obtener informaci\'on como contrasenias u otros c\'odigos de acceso. El atacante prueba una variedad de posibles combinaciones de caracteres con la ayuda del software apropiado, con el objetivo de encontrar la secuencia de caracteres deseada para obtener acceso ilegal a datos sensibles, parcialmente encriptados. }{2}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {1.1}Desarrollo del Problema}{2}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces Creaci\'on de arreglo.}}{2}\protected@file@percent }
+\newlabel{fig:cod1}{{1}{2}}
+\@writefile{toc}{\contentsline {paragraph}{El primer paso fue entender muy bien el problema, se quer\'ia encontrar una contrasenia con posibles combinaciones de vocales y de longitud 4. Cuando se comprendi\'o el problema empec\'e programando un arreglo para guardar la contrasenia a encontrar. Fig \ref  {fig:cod1} }{2}\protected@file@percent }
+\@writefile{toc}{\contentsline {paragraph}{El siguiente paso que decid\'i hacer fue crear 4 ciclos for uno para cada car\'acter de la contrasenia, en cada uno de ellos los rangos serian de 1 a 6 ya que en total son 5 vocales.}{2}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces Multiples for.}}{2}\protected@file@percent }
+\newlabel{fig:cod2}{{2}{2}}
+\@writefile{toc}{\contentsline {paragraph}{Utilice un contador para saber cuentas iteraciones fueron necesarias hasta encontrar la contrasenia, este fue introducido despu\'es del \'ultimo for. Fig: \ref  {fig:cod2}}{2}\protected@file@percent }
+\@writefile{toc}{\contentsline {paragraph}{Cada valor en los for fueron introducidos en un arreglo para posteriormente compararlo con el arreglo de la contrasenia por medio de un if, de no ser iguales el programa seguir\'ia comprobando car\'acter por car\'acter hasta encontrar la contrasenia, en caso de ser id\'enticos el programa imprimir\'a un mensaje con el n\'umero de iteraci\'on y la contrasenia dada en n\'umeros donde 1=a,2=e,3=i,4=o,5=u, ya que esto no es muy practico y se necesitaba saber cual es la contrasenia en vocales, decid\'i utilizar un diccionario en los valores de las vocales esto con la finalidad de no utilizar m\'ultiples if para simplemente cambiar de n\'umeros a letras.}{3}\protected@file@percent }
+\@writefile{toc}{\contentsline {paragraph}{Para definir un nuevo diccionario utilice la funci\'on dict() y se la asigne a una variable en este caso llamada vocal.}{3}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces Diccionario.}}{3}\protected@file@percent }
+\newlabel{fig:cod3}{{3}{3}}
+\@writefile{toc}{\contentsline {paragraph}{Una vez creado el diccionario, le asigne valores de acuerdo con la sintaxis, d\'andole a el primer elemento un valor de A, al segundo E y as\'i sucesivamente.}{3}\protected@file@percent }
+\@writefile{toc}{\contentsline {paragraph}{Una vez hecho esto solo mande a llamar al diccionario pas\'andole la variable que conten\'ia el \'indice del for esto con el m\'etodo get() que devuelve el valor del diccionario de acuerdo al \'indice.}{3}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {4}{\ignorespaces Codigo Completo.}}{3}\protected@file@percent }
+\newlabel{fig:cod4}{{4}{3}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5}{\ignorespaces Resultado.}}{4}\protected@file@percent }
+\newlabel{fig:cod5}{{5}{4}}
+\@writefile{toc}{\contentsline {paragraph}{Esto permiti\'o resolver de buena manera convertir los n\'umeros a sus respectivas vocales.}{4}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {2}Conclusi\'on}{4}\protected@file@percent }
+\@writefile{toc}{\contentsline {paragraph}{En conclusi\'on, el uso de fuerza bruta para encontrar una contrasenia no es la mejor opci\'on ya que en este caso la longitud y los valores posibles en la contrasenia lo hicieron f\'acil y r\'apido de hacer, pero para contresenias mucho m\'as elaboradas y con mucho mas posibles combinaciones ser\'ia muy tardado. en este caso es de gran ayuda el uso de los algoritmos gen\'eticos para acelerar en gran medida el proceso para encontrar la contrasenia.}{4}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {3}Referencias}{4}\protected@file@percent }
+\@writefile{toc}{\contentsline {paragraph}{Montoro, A. F. (2012). Python 3 al Descubierto. RC Libros.}{4}\protected@file@percent }
